@@ -8,7 +8,7 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
 Hi! Coucou! ¡Hola!  My name is Eder Hernández and I'm a second year master's candidate at Heinz College at Carnegie Mellon University studying Public Policy & Management. I'm originally from Santa Barbara, CA but have called Los Angeles, CA home since my early 20s. I love the outdoors, including hiking along the coast and finding new cute coffee shops. 
@@ -28,9 +28,6 @@ I am excited to embark on this new journey as a designer & data scientist to hav
 
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -76,8 +73,8 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 Here's an example of how to add an image to my portfolio.  
 
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![eder-lake-humantay](https://github.com/user-attachments/assets/e4b18ce7-1651-4729-a11b-39350c378e31)
+
   
 
 Alternately, you can set the size of the image using just a bit of HTML: 
