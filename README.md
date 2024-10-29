@@ -11,7 +11,14 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! Coucou! ¡Hola!  My name is Eder Hernández and I am second year master's candidate at Heinz College at Carnegie Mellon University studying Public Policy & Management. I am originally from Santa Barbara, CA but have called Los Angeles, CA home since my early 20s. I love the outdoors, including hiking along the coast and finding new cute coffee shops. 
+
+In my former career, I worked in data governance from a legal perspective, specializing in health. I love the idea of continuing in this work, but from a more creative and entrepreneurial lens.
+
+A personal idol of mine in the dataviz field is the late Hans Rosling, who was a Swedish physicist and an impressiver orator that was able to engage with data in the most captivating, and interactie fashion that I've ever witness. Check out this excerpt from the BBC.
+https://www.youtube.com/watch?v=Z8t4k0Q8e8Y 
+
+I am excited to embark on this new journey as a designer & data scientist to have a positive impact on society
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
