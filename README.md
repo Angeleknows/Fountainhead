@@ -18,7 +18,7 @@ In my former career, I worked in data governance from a legal perspective, speci
 A personal idol of mine in the dataviz field is the late Hans Rosling, who was a Swedish physicist and an impressiver orator that was able to engage with data in the most captivating, and interactive fashion that I have ever witnessed. Check out this excerpt of his from the BBC.
 https://www.youtube.com/watch?v=Z8t4k0Q8e8Y 
 
-I am excited to embark on this new journey as a designer & data scientist to have a positive impact on society
+I am excited to embark on this new journey as a designer & data scientist to have a positive impact on society!
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
