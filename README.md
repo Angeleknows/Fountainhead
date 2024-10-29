@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=Z8t4k0Q8e8Y
 I am excited to embark on this new journey as a designer & data scientist to have a positive impact on society!
 
 ![eder-lake-humantay](https://github.com/user-attachments/assets/e4b18ce7-1651-4729-a11b-39350c378e31)
+Lake Humantay, Peru at an elevation of 13,977'/ 4,200 m above sea level. August 2024.
 
 # What I hope to learn
 
