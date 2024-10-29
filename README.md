@@ -24,7 +24,7 @@ I am excited to embark on this new journey as a designer & data scientist to hav
 
 1. I aim to become more comfortable transforming data into impactful presentations that draw compelling insights.
 2. Enhance my ability to collaborate with peers whose skills complement mine. While I feel confident as a designer, I seek support in the data science realm.
-3. To find joy in imperfections of data, and have that nuance guide me as my North Star in my second career in public interest technology & entrepreneurship. Poetic justice throughg data...
+3. To find joy in imperfections of data, and have that nuance guide me as my North Star in my second career in public interest technology and entrepreneurship. Poetic justice through data...
 
 
 # Portfolio
