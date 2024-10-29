@@ -4,7 +4,7 @@
 This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
-Hi! Coucou! ¡Hola!  My name is Eder Hernández and I'm a second year master's candidate at Heinz College at Carnegie Mellon University studying Public Policy & Management. I'm originally from Santa Barbara, CA but have called Los Angeles, CA home since my early 20s. I love the outdoors, including hiking along the coast and finding new cute coffee shops. 
+¡Hola!  My name is Eder Hernández and I'm a second year master's candidate at Heinz College at Carnegie Mellon University studying Public Policy & Management. I'm originally from Santa Barbara, CA but have called Los Angeles, CA home since my early 20s. I love the outdoors, including hiking along the coast and finding new cute coffee shops. 
 
 In my former career, I worked in data governance from a legal perspective, specializing in health. I love the idea of continuing in this work, but from a more creative and global lens.
 
