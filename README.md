@@ -22,9 +22,9 @@ I am excited to embark on this new journey as a designer & data scientist to hav
 
 # What I hope to learn
 
-1. Become more comfortable in tranforming data into impactful presentations that draw compelling insights 
-2. How to better collaborate with peers whose skillses, can complement mine. I feel very confident as a designer, but could use support in the data science realm. 
-3. How to find joy in the nuances of the imperfections of data, and have that be a guiding North Star in a second career in public interest technology & entrepreneurship. 
+1. I aim to become more comfortable transforming data into impactful presentations that draw compelling insights.
+2. Enhance my ability to collaborate with peers whose skills complement mine. While I feel confident as a designer, I seek support in the data science realm.
+3. Find joy in the nuances of data imperfections and allow that to guide me as my North Star in my second career in public interest technology & entrepreneurship. 
 
 
 # Portfolio
