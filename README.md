@@ -8,7 +8,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 In my former career, I worked in data governance from a legal perspective, specializing in health. I love the idea of continuing in this work, but from a more creative and global lens.
 
-A personal idol of mine in the dataviz field is the late Hans Rosling, who was a Swedish physicist and an impressiver orator that was able to engage with data in the most captivating, and interactive fashion that I have ever witnessed. Check out this excerpt of his from the BBC.
+A personal idol of mine in the dataviz field is the late Hans Rosling, who was a Swedish physicist, statistician, and an impressiver orator. He was gifted in explaning data in the most captivating, and interactive fashion that I have ever witnessed. Check out this excerpt of his from the BBC.
 [Watch the video here](https://www.youtube.com/watch?v=Z8t4k0Q8e8Y)
 
 
