@@ -53,7 +53,7 @@ I am excited to embark on this new journey as a designer & data scientist to hav
     </object>
 </div>
 
-<div class='tableauPlaceholder' id='viz1730716269735' style='position:relative'>
+<div class='tableauPlaceholder' id='viz1730716534124' style='position:relative'>
     <noscript>
         <a href='#'>
             <img alt='Understanding Median Government Debt Trends from 1995 to 2019' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Un&#47;UnderstandingMedianGovernmentDebtTrendsfrom1995to2019&#47;MedianGenGovtDebt90&#47;1_rss.png' style='border:none'/>
@@ -76,15 +76,10 @@ I am excited to embark on this new journey as a designer & data scientist to hav
         <param name='filter' value='publish=yes'/>
     </object>
 </div>
-<script type='text/javascript'>
-    var divElement=document.getElementById('viz1730716269735');
-    var vizElement=divElement.getElementsByTagName('object')[0];
-    vizElement.style.width='100%';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-    var scriptElement=document.createElement('script');
-    scriptElement.src='https://public.tableau.com/javascripts/api/viz_v1.js';
-    vizElement.parentNode.insertBefore(scriptElement,vizElement);
-</script>
+
+This visualization dives into five countries where the median government debt is 90.0 or greater from 1999 to 2019. Over this ten-year interval, it’s clear that countries starting with a sizable amount of debt further piled on more.  However, I realize this narrative can be a bit misleading since I didn’t fully account for the shifts in some countries’ values. For example, Poland started in 2009 with a median of 50.4, yet its debt as a percentage of GDP kept climbing steadily and eventually could be bucketed in the same domain as the other countries I selected based on debt growth..
+
+Initially, I focused in on Greece, the USA, Italy, Japan, and Canada because Tableau flagged them as outliers. What stood out to me was how these countries all experienced a notable bump in debt over the decade. I also overlooked Portugal when arguing about increasing debt over time since it didn’t start with a median of at least 90, beginning in the 70s, but its debt load still surged. Looking back, I think I could have done a better job visualizing this. Still, I’m happy with how the dataviz highlights the outliers, using bright pops of color against a muted gray palette for the rest of the dataset. It really draws the eye to those key players and tells the story that certain countries with already high median debt levels have continued to increase their debt loads over time.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
