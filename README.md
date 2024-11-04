@@ -27,6 +27,9 @@ I am excited to embark on this new journey as a designer & data scientist to hav
 # Portfolio
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+![OECD 2023 gen govnt debt percent of GDP](https://github.com/user-attachments/assets/db988fbf-4881-4528-a110-17c3586daf42)
+
+
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
