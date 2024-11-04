@@ -29,7 +29,10 @@ I am excited to embark on this new journey as a designer & data scientist to hav
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 ![OECD 2023 gen govnt debt percent of GDP](https://github.com/user-attachments/assets/db988fbf-4881-4528-a110-17c3586daf42)
 
-<script type='text/javascript'>var divElement=document.getElementById('viz1730710905777');var vizElement=divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement=document.createElement('script');scriptElement.src='https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement,vizElement);</script>
+<script type='text/javascript'>
+var divElement=document.getElementById('viz1730710905777');
+var vizElement=divElement.getElementsByTagName('object')[0];
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement=document.createElement('script');scriptElement.src='https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement,vizElement);</script>
             
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
