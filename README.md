@@ -1,4 +1,4 @@
-| [home page](https://github.com/Angeleknows/Fountainhead) | [visualizing debt](visualizing-government-debt) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://github.com/Angeleknows/Fountainhead) | [visualizing debt](visualizing-government-debt) | [critique-by-desig](https://github.com/Angeleknows/Fountainhead/blob/main/critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
