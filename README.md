@@ -86,15 +86,6 @@ I zeroed in on Greece, the USA, Italy, Japan, and Canada because Tableau flagged
 I personally prefer this representation over a two-toned heat map because it grabs the audience's attention and really communicates the narrative I want to convey. I leaned into using gray as a friend while letting color accentuate what I wanted to show. I initially tried bubble charts, but ultimately found their sizes, without any axes, to be out of context and challenging to interpret. So, I went with a Pointillism-inspired approach that’s visually striking due to the hierarchy I implemented by organizing the countries alphabetically. This worked in my favor, ensuring there was aesthetic balance in the frame. One tweak I would’ve loved to make, but didn’t know how, was to change the font color of the countries whose data is muted. Compared to the OECD bar chart, my dataviz emphasizes outliers through color and texture, and it’s rendered much cleaner than the heat map, which feels busy with distracting numeric values across the landscape.
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final Project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
-
 ---
 
 
