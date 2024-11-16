@@ -62,7 +62,31 @@ For my final redesign, I would focus on balancing these two perspectives. I thin
 
 ## Final Vizualization
 
-
+<div class="tableauPlaceholder" id="viz1731729201926" style="position: relative">
+  <noscript>
+    <a href="#">
+      <img alt="Double-digit Increase in Acceptance of Homosexuality Across the World from 2013-2019" 
+           src="https://public.tableau.com/static/images/la/lavender/map/1_rss.png" 
+           style="border: none" />
+    </a>
+  </noscript>
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+    <param name="embed_code_version" value="3" />
+    <param name="site_root" value="" />
+    <param name="name" value="lavender/map" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+    <param name="static_image" value="https://public.tableau.com/static/images/la/lavender/map/1.png" />
+    <param name="animate_transition" value="yes" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-GB" />
+    <param name="filter" value="publish=yes" />
+  </object>
+</div>
 
 Ultimately I went with a stripped down map because the more I thought about it, a map was still the most intuitive approach to thinking about the topic. With the help  of descriptions that the user can hover over the six lavender-colored countries, I think that it's easy to understand that I am focusing only on countries where there is a double digit change in accepting homosexuality in society. Those small, but thoughtful changes ensure the audience’s attention is directed to the most impactful data from the Pew Research Center and demonstrate that even in politically conservative societies like Turkey and South Africa, views on homosexuality are gradually changing in society at large. 
 
