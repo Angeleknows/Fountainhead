@@ -25,7 +25,7 @@ To improve the visualization, a simpler layout, better contrast, and more consis
 I wanted to show the change in acceptance of homosexuality in society by using a bubble chart that would emphasize the proportion of change across 2013-2019 in countries that specifically had a double digit jump. I thought this particular metric was interesting to focus on since the original map didn't distinguish what the numbers meant, and it was hard to understand what all the colors and numeric values associated with them meant. 
 
 **Sketch 2** ![sketch2](https://github.com/user-attachments/assets/5af8e1f1-3848-4e7f-996a-2332b0b25c90)
-I wanted to simplify the representation of change as much as possible by using a slope chart. What I liked about this concept was that it had a beginning point and an endpoint, which allowed me to focus on specificity instead of the entire data set for which the Pew Center conducted surveys.  I imagine only using lavender and white, or gay, so the chart was incredibly minimalistic. 
+I wanted to simplify the representation of change as much as possible by using a slope chart. What I liked about this concept was that it had a beginning point and an endpoint, which allowed me to focus on specificity instead of the entire data set for which the Pew Center conducted surveys.  I imagine only using lavender and white, or gray, so the chart was incredibly minimalistic. 
 
 ## Testing the Solution
 
