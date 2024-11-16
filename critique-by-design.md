@@ -6,7 +6,8 @@
 
 ## Step one: the visualization
 
-<img width="657" alt="image" src="https://github.com/user-attachments/assets/c8c8a51f-737b-42d0-a80f-c70cf34d4954">
+Graph selected for the redesign:![Global Views on Homosexuality](https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists/pg_2020-06-25_global-views-homosexuality_0-01-png/)
+
 
 Original article: https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists/
 
