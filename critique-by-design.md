@@ -13,7 +13,7 @@ While reviewing various datasets, I chose to focus on "The Global Divide on Homo
 
 ## The Critique
 
-The Pew Research Center data visualization intended to represent global views on homosexuality suffers from several design issues that reduce its effectiveness. The crowded and chaotic layout, along with the use of green as a color, distracts from the map's central message. A more fitting color like lavender, historically associated with queer identity, would improve clarity and emotional resonance. The map's target audience, academics and policy experts, may find it effective for their statistical knowledge, but the lack of aesthetic appeal could hinder broader understanding.
+The Pew Research Center's data visualization on global views of homosexuality is undermined by several design flaws that detract from its effectiveness. The cluttered layout and the use of green as a color choice distract from the map's central message. A more suitable color, such as lavender,historically linked with queer identity, could enhance both clarity and emotional resonance. While the map may resonate with its target audience of academics and policy experts due to its statistical accuracy, its lack of aesthetic appeal could limit its accessibility and understanding for a broader audience.
 
 Typography inconsistencies and spatial hierarchy problems, particularly with an overly zoomed-in Europe, create visual clutter. The numeric labels on countries are misaligned with the legend, further complicating interpretation. While a map is a good choice for this global topic, the design needs to focus more on key trends, such as the increasing acceptance of homosexuality in countries like South Africa, South Korea, and India, which the map fails to highlight effectively.
 
