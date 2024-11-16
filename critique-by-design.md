@@ -26,9 +26,9 @@ I wanted to show the change in acceptance of homosexuality in society by using a
 **Sketch 2** ![sketch2](https://github.com/user-attachments/assets/5af8e1f1-3848-4e7f-996a-2332b0b25c90)
 I wanted to simplify the representation of change as much as possible by using a slope chart. What I liked about this concept was that it had a beginning point and an endpoint, which allowed me to focus on specificity instead of the entire data set for which the Pew Center conducted surveys.  I imagine only using lavender and white, or gay, so the chart was incredibly minimalistic. 
 
-**Testing the Solution**
+## Testing the Solution
 
-## Healthcare Operations Analyst (Mid 30s):
+**Healthcare Operations Analyst (Mid 30s)**:
 
 **Can you tell me what you think this is?** "I think that this sketch is illustrating the momentum and evolution of how homosexuality has gained visibility."
 
@@ -52,7 +52,7 @@ I wanted to simplify the representation of change as much as possible by using a
 
 **Is there anything you would change or do differently?** "While the circle size is an effective visual cue, it might be helpful to include additional context, like color coding or other annotations, to provide more depth and make the data even clearer, especially when comparing across years, yeah."
 
-**Insights From User Feedback:**
+## Insights From User Feedback:
 
 Both reviewers emphasize the importance of illustrating change over time, but they approach it from different angles. The health professional highlights the potential of animation to convey momentum and the emotional impact of progress, suggesting that seeing the data evolve would engage the audience more effectively. On the other hand, the grad student values simplicity and clarity, appreciating the use of circle sizes to represent percentages, as it allows for easy comparison across years without the complexity of dynamic elements.
 
@@ -60,7 +60,7 @@ From the feedback, I learned that the audience’s needs and expectations play a
 
 For my final redesign, I would focus on balancing these two perspectives. I think incorporating a more dynamic element, like subtle animations or transitions, could help bring the data to life and convey the momentum the health professional is advocating for. However, I’d retain the simplicity of the circle sizes as a primary visual cue, ensuring the message remains clear and easy to follow. Additionally, I’d consider adding more contextual elements, like color coding or annotations, to enhance understanding and provide deeper insights into the data. This way, the design would remain accessible while still engaging the audience with a richer, more dynamic experience.
 
-## Step five: build the solution
+## Final Vizualization
 
 
 
