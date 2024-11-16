@@ -1,7 +1,8 @@
 [home page](https://github.com/Angeleknows/Fountainhead/blob/main/README.md) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The Global Divide on Homosexuality Persists
-Graph selected for the redesign: The Global Divide on Homosexuality Persists
+![Global Views on Homosexuality](https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists/pg_2020-06-25_global-views-homosexuality_0-01-png/)
+
 
 ## Step one: the visualization
 
