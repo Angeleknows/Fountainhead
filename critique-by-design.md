@@ -63,30 +63,13 @@ For my final redesign, I would focus on balancing these two perspectives. I thin
 
 ## Final Vizualization
 
-<div class="tableauPlaceholder" id="viz1731729201926" style="position: relative">
-  <noscript>
-    <a href="#">
-      <img alt="Double-digit Increase in Acceptance of Homosexuality Across the World from 2013-2019" 
-           src="https://public.tableau.com/static/images/la/lavender/map/1_rss.png" 
-           style="border: none" />
-    </a>
-  </noscript>
-  <object class="tableauViz" style="display:none;">
-    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-    <param name="embed_code_version" value="3" />
-    <param name="site_root" value="" />
-    <param name="name" value="lavender/map" />
-    <param name="tabs" value="no" />
-    <param name="toolbar" value="yes" />
-    <param name="static_image" value="https://public.tableau.com/static/images/la/lavender/map/1.png" />
-    <param name="animate_transition" value="yes" />
-    <param name="display_static_image" value="yes" />
-    <param name="display_spinner" value="yes" />
-    <param name="display_overlay" value="yes" />
-    <param name="display_count" value="yes" />
-    <param name="language" value="en-GB" />
-    <param name="filter" value="publish=yes" />
-  </object>
-</div>
+<div class='tableauPlaceholder' id='viz1732052133616' style='position: relative'><noscript><a href='#'><img alt='Double-digit Increase in Acceptance of Homosexuality Across the World from 2013-2019 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;la&#47;lavender&#47;map&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='lavender&#47;map' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;la&#47;lavender&#47;map&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1732052133616');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 I ultimately decided on a stripped-down map because, after further consideration, it felt like the most intuitive way to approach this global topic. By adding hover-over descriptions to the six lavender-colored countries, it’s clear that I’m highlighting those with a double-digit increase in acceptance of homosexuality, as indicated by the legend. These small but deliberate changes ensure the audience’s attention is directed toward the most impactful data from Pew Research. They also show that, even in politically conservative societies like Turkey and South Africa, views on homosexuality are gradually evolving, rather than overwhelming the viewer with too much information or leave them wondering about the missing data in some regions.
