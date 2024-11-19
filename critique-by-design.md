@@ -1,4 +1,4 @@
-[home page](https://Angeleknows.github.io/Fountainhead) | [visualizing debt](https://Angeleknows.github.io/visualizing-government-debt) | [critique by design](https://Angeleknows.github.io/critique-by-design) | [final project I](https://Angeleknows.github.io/final-project-part-one) | [final project II](https://Angeleknows.github.io/final-project-part-two) | [final project III](https://Angeleknows.github.io/final-project-part-three)
+[home page](https://Angeleknows.github.io/Fountainhead) | [visualizing debt](visualizing-government-debt) | [critique by design](https://Angeleknows.github.io/Fountainhead/critique-by-design) | [final project I](https://Angeleknows.github.io/final-project-part-one) | [final project II](https://Angeleknows.github.io/final-project-part-two) | [final project III](https://Angeleknows.github.io/final-project-part-three)
 
 
 # Makeover Monday ##44
