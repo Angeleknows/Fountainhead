@@ -11,10 +11,15 @@ This projecto will explore the impact of public policy on Latino art representat
 Given the current political climate surrounding Latino communities, where immigration and identity are central to ongoing debates, this question is more pressing than ever. By comparing these cities, I will highlight how funding for Latino art initiatives varies across the country, and what this means for cultural representation and the amplification of Latino voices in the public sphere.
 
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Initial Sketches
 
-Text here...
+
+![latino art funding fig 3](https://github.com/user-attachments/assets/e2224a21-3610-49d4-a0ce-fb6f470a2ff4)
+![latino art funding fig 2](https://github.com/user-attachments/assets/f4bd17ed-a89d-4b6a-83f5-1ad905500606)
+![latino art funding fig 1](https://github.com/user-attachments/assets/0fb1b718-6961-41bc-9ae4-a85304bc3a9b)
+![lartino art funding fig 4](https://github.com/user-attachments/assets/adfdc3f1-d711-48ad-bc07-a023f5361d53)
+![latino art funding fig 5](https://github.com/user-attachments/assets/73feb2b2-be8f-4f2c-84f9-6c04073fbc60)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
