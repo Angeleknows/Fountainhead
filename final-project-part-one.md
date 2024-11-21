@@ -58,4 +58,4 @@ I will also integrate demographic data from the U.S. Census Bureau to give conte
 
 # Method and Medium
 > Shorthand is a great fit because it lets me tell a clear, engaging story with interactive visuals especially since my topic leans heavily towards the arts. This platform aligns with how I like to present data—seamlessly blending analysis with narrative, but ESRI's StoryMaps could also be a choice if maps are created.
-> For the visuals, Python/MATLAB and Tableau give me the flexibility and precision I need to create custom, impactful charts. Python and Matlab let me dig deep into the data, while Tableau brings the interactivity that makes the insights more accessible
+> For the visuals, Python/MATLAB and Tableau give me the flexibility and precision I need to create custom, impactful charts.
