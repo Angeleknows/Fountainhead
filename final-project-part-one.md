@@ -43,18 +43,18 @@ I will also integrate demographic data from the U.S. Census Bureau to give conte
 | Community Engagement Data on Latino Arts | Looks at the community participation in Latino art programs, including the economic impact and public perceptions of Latino art representation. This data highlights the broader social and economic benefits of supporting Latino art. | Various studies and surveys by Latino arts nonprofits, such as NALAC or local arts organizations.             |
 
 # Citations
-- National Association of Latino Arts and Cultures. (2023). *2023 NALAC Impact Report*. Retrieved from [https://nalac.app.box.com/s/q9nzcqwwhcqni148tdgjclru806w66re](https://nalac.app.box.com/s/q9nzcqwwhcqni148tdgjclru806w66re)
-- Latinx Funders. (2023). *Funding Trends*. Retrieved from [https://latinxfunders.org/funding-trends/](https://latinxfunders.org/funding-trends/)
-- Mellon Foundation. (2023). *$5M Initiative to Advance Latinx Art in Museums*. Retrieved from [https://www.mellon.org/news/new-5m-initiative-designed-advance-latinx-art-museums](https://www.mellon.org/news/new-5m-initiative-designed-advance-latinx-art-museums)
-- U.S. Census Bureau. (2020). *Hispanic or Latino Population*. Retrieved from [https://www.census.gov/topics/population/hispanic-origin.html](https://www.census.gov/topics/population/hispanic-origin.html)
-- Americans for the Arts. (2023). *Public Art Database*. Retrieved from [https://www.americansforthearts.org/by-program/reports-and-data/research-studies/national-art-index/public-art](https://www.americansforthearts.org/by-program/reports-and-data/research-studies/national-art-index/public-art)
-- City of Los Angeles, City of Chicago, City of New York. (2023). *Open Data Portals*. Retrieved from [https://data.lacity.org/](https://data.lacity.org/), [https://data.cityofchicago.org/](https://data.cityofchicago.org/), [https://opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/)
-- Candid. (2023). *Foundation Center - Arts Grants*. Retrieved from [https://candid.org/](https://candid.org/)
-- ArtPlace America. (2023). *ArtPlace America - Funding Initiatives*. Retrieved from [https://www.artplaceamerica.org/](https://www.artplaceamerica.org/)
-- Latino Arts Network. (2023). *California Cultura Report*. Retrieved from [https://latinosleadnow.org/california-cultura-trends-funding-challenges-and-opportunities-for-latino-arts-organizations-in-california/](https://latinosleadnow.org/california-cultura-trends-funding-challenges-and-opportunities-for-latino-arts-organizations-in-california/)
-- Pittsburgh Arts Council. (2023). *Racial Equity & Arts Funding Report*. Retrieved from [https://www.pittsburghartscouncil.org/sites/default/files/documents/racial-equity-and-arts-funding-technical-report.pdf](https://www.pittsburghartscouncil.org/sites/default/files/documents/racial-equity-and-arts-funding-technical-report.pdf)
-- U.S. Bureau of Labor Statistics. (2023). *Artist Employment & Income Data*. Retrieved from [https://www.arts.gov/](https://www.arts.gov/)
-- Various Latino Arts Nonprofits. (2023). *Community Engagement Data on Latino Arts*. Retrieved from various nonprofit studies.
+- National Association of Latino Arts and Cultures. (2023). *2023 NALAC Impact Report*. [https://nalac.app.box.com/s/q9nzcqwwhcqni148tdgjclru806w66re](https://nalac.app.box.com/s/q9nzcqwwhcqni148tdgjclru806w66re)
+- Latinx Funders. (2023). *Funding Trends*. [https://latinxfunders.org/funding-trends/](https://latinxfunders.org/funding-trends/)
+- Mellon Foundation. (2023). *$5M Initiative to Advance Latinx Art in Museums*. [https://www.mellon.org/news/new-5m-initiative-designed-advance-latinx-art-museums](https://www.mellon.org/news/new-5m-initiative-designed-advance-latinx-art-museums)
+- U.S. Census Bureau. (2020). *Hispanic or Latino Population*. [https://www.census.gov/topics/population/hispanic-origin.html](https://www.census.gov/topics/population/hispanic-origin.html)
+- Americans for the Arts. (2023). *Public Art Database*. [https://www.americansforthearts.org/by-program/reports-and-data/research-studies/national-art-index/public-art](https://www.americansforthearts.org/by-program/reports-and-data/research-studies/national-art-index/public-art)
+- City of Los Angeles, City of Chicago, City of New York. (2023). *Open Data Portals*. [https://data.lacity.org/](https://data.lacity.org/), [https://data.cityofchicago.org/](https://data.cityofchicago.org/), [https://opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/)
+- Candid. (2023). *Foundation Center - Arts Grants*. [https://candid.org/](https://candid.org/)
+- ArtPlace America. (2023). *ArtPlace America - Funding Initiatives*. [https://www.artplaceamerica.org/](https://www.artplaceamerica.org/)
+- Latino Arts Network. (2023). *California Cultura Report*. [https://latinosleadnow.org/california-cultura-trends-funding-challenges-and-opportunities-for-latino-arts-organizations-in-california/](https://latinosleadnow.org/california-cultura-trends-funding-challenges-and-opportunities-for-latino-arts-organizations-in-california/)
+- Pittsburgh Arts Council. (2023). *Racial Equity & Arts Funding Report*. [https://www.pittsburghartscouncil.org/sites/default/files/documents/racial-equity-and-arts-funding-technical-report.pdf](https://www.pittsburghartscouncil.org/sites/default/files/documents/racial-equity-and-arts-funding-technical-report.pdf)
+- U.S. Bureau of Labor Statistics. (2023). *Artist Employment & Income Data*. [https://www.arts.gov/](https://www.arts.gov/)
+- Various Latino Arts Nonprofits. (2023). *Community Engagement Data on Latino Arts*. Various nonprofit studies.
 
 # Method and Medium
 > Shorthand is a great fit because it lets me tell a clear, engaging story with interactive visuals especially since my topic leans heavily towards the arts. This platform aligns with how I like to present data—seamlessly blending analysis with narrative, but ESRI's StoryMaps could also be a choice if maps are created.
