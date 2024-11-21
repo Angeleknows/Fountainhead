@@ -1,16 +1,15 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Art has always been a passion of mine since I was a young boy, even though I’m not a practicing artist, yet. The way art captures identity, culture, and storytelling has always fascinated me as it allows us to imagine worlds beyond borders. As someone who has a deep appreciation for art’s ability to express the complexities of the human experience like migration, I want to explore how Latino artists, particularly those telling stories of immigrant identity, are supported through public policy and government funding.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+In many countries outside of Latin America, Latino art is celebrated as a vital part of the cultural fabric. Take Spain, for example. The country has a long history of promoting Latin American and Latino cultural expressions, with dedicated funding programs for visual arts, muralism, and performing arts that highlight immigrant communities. Similarly, in places like Canada and even parts of Europe, there is a robust system of cultural grants and artist residencies that support the work of Latino artists, allowing them to share their stories in a way that can influence national discourse on identity and migration.
 
-Text here...
+But in the United States, despite having one of the largest Latino populations outside of Latin America, the level of public support for Latino art often falls short. Unlike these other countries, where the arts are seen as a core part of the social dialogue, the funding and representation of Latino artists in the U.S. are often sidelined by political agendas and funding disparities.
+This projecto will explore the impact of public policy on Latino art representation across seven major U.S. cities: New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, and San Antonio. I will tell the story of how government funding influences the visibility and support for Latino art, with a particular focus on how these policies either promote or hinder the representation of immigrant identity, especially bicultural and bilingual experiences.
+
+Given the current political climate surrounding Latino communities, where immigration and identity are central to ongoing debates, this question is more pressing than ever. By comparing these cities, I will highlight how funding for Latino art initiatives varies across the country, and what this means for cultural representation and the amplification of Latino voices in the public sphere.
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
