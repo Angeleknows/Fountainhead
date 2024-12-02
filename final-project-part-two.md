@@ -25,14 +25,17 @@
 
 ## Interview Findings
 
-| **Questions**                                                | **Interview 1 (Healthcare Operations Analyst)**                              | **Interview 2** | **Interview 3** |
-|--------------------------------------------------------------|----------------------------------------------------------------------------|-----------------|-----------------|
-| What story do you think the data is telling?                | There’s an underfunding of Latino artists across major U.S. cities.         |                 |                 |
-| Did the story capture your attention, and was it easy to follow? | Yes, clear structure using Los Angeles as a benchmark for comparison.       |                 |                 |
-| How effective were the visualizations in supporting the story? | Worked: Transitions between light and dark themes. Didn’t work: Missing data comparing overall arts funding to Latino art funding. |                 |                 |
-| Were there any parts of the story or visuals that felt incomplete or could be improved? | Suggests adding data showing disparities between total arts funding and Latino art funding. |                 |                 |
-| Who do you think the target audience is for this story?      | Public funding officials and private arts funders.                          |                 |                 |
-| Were the main takeaways and recommendations clear?          | Yes, clear call to action: Increase funding for Latino art in other cities to match Los Angeles. |                 |                 |
+## Interview Findings
+
+| **Questions**                                                | **Interview 1 (Healthcare Operations Analyst)**                              | **Interview 2 (CMU Graduate Student, Mechanical Engineer)**           | **Interview 3 (Google Employee and Dancer)**                     |
+|--------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
+| What story do you think the data is telling?                | There’s an underfunding of Latino artists across major U.S. cities.         | There’s a large gap in funding for Latino art compared to other categories of public art. | Latino artists face systemic inequities in accessing arts funding. |
+| Did the story capture your attention, and was it easy to follow? | Yes, clear structure using Los Angeles as a benchmark for comparison.       | The story was clear but could benefit from more global context for non-U.S. audiences.   | Very engaging, especially with the comparisons across cities.     |
+| How effective were the visualizations in supporting the story? | Worked: Transitions between light and dark themes. Didn’t work: Missing data comparing overall arts funding to Latino art funding. | Worked: Simple and clean graphs. Didn’t work: Lack of annotation on the key disparities. | Worked: Color choices were vibrant. Didn’t work: Felt some graphs had too much text. |
+| Were there any parts of the story or visuals that felt incomplete or could be improved? | Suggests adding data showing disparities between total arts funding and Latino art funding. | Add insights into why these funding gaps exist—are there structural or historical reasons? | Consider showing personal stories of Latino artists to complement the data. |
+| Who do you think the target audience is for this story?      | Public funding officials and private arts funders.                          | Policymakers and advocates in arts funding, especially those in the U.S. | Arts organizations and community leaders passionate about equity. |
+| Were the main takeaways and recommendations clear?          | Yes, clear call to action: Increase funding for Latino art in other cities to match Los Angeles. | Somewhat clear but could benefit from specifying actionable steps for funders. | Very clear and persuasive, especially for those already engaged in the arts. |
+|
 
 
 
