@@ -24,7 +24,7 @@
 | 6     | Determine the clarity and persuasiveness of the intended actions or outcomes  | Were the main takeaways and recommendations clear, and did they motivate you to act or learn more?       |
 
 ## Interview Findings: 
->The interviews showed that the story communicates the underfunding of Latino artists clearly and effectively, using comparisons like Los Angeles to engage the audience. Visualizations were strong, with transitions and color choices standing out, but there’s room to add more data and annotations to better highlight disparities. Feedback pointed to the need for more context, including structural reasons behind inequities and personal stories to make the narrative more impactful. The target audience was identified as policymakers, funders, and community leaders, with a clear call to action to increase equitable funding. Overall, the story resonates but could be even stronger with added depth and nuance.
+>The interviews showed that the story communicates the underfunding of Latino artists clearly and effectively, using comparisons like Los Angeles to engage the audience. Visualizations were strong, with transitions and color choices standing out, but there’s room to add more data and annotations to better highlight disparities. Feedback pointed to the need for more context, including structural reasons behind inequities and personal stories to make the narrative more impactful. The interviewees corroborated that the target audience should be public funding officials, private arts funders, and leaders in arts organizations who have the influence to prioritize equitable funding. The call to action was seen as clear, urging these stakeholders to address the funding disparities for Latino artists by increasing investments and adopting policies that reflect the equity seen in cities like Los Angeles
 
 | **Questions**                                                | **Interview 1 (Healthcare Operations Analyst)**                              | **Interview 2 (CMU Graduate Student, Mechanical Engineer)**           | **Interview 3 (Google Employee and Dancer)**                     |
 |--------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
@@ -39,9 +39,7 @@
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+> I plan to refine my story by incorporating additional data points, specifically by playing around with different graphs in Python/Matlab, providing more context on systemic barriers to equitable funding, and strengthening the call to action with specific, actionable steps for stakeholders. I will also enhance my visualizations with annotations to better highlight disparities and consider adding personal stories of Latino artists to create a more compelling narrative.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -55,8 +53,4 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
