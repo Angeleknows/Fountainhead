@@ -1,4 +1,4 @@
-[home page](https://Angeleknows.github.io/Fountainhead) | [visualizing debt](https://Angeleknows.github.io/Fountainhead/visualizing-debt) | [critique by design](critique-by-design) | [final project I](https://angeleknows.github.io/Fountainhead/final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+[home page](https://Angeleknows.github.io/Fountainhead) | [visualizing debt](https://Angeleknows.github.io/Fountainhead/visualizing-debt) | [critique by design](critique-by-design) | [final project I](https://angeleknows.github.io/Fountainhead/final-project-part-one) | [final project II](https://angeleknows.github.io/Fountainhead/final-project-part-two) | [final project III](final-project-part-three) |
 
 
 # Portfolio
