@@ -14,14 +14,17 @@
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
+# Interview Script
 
-Text here!
+| **#** | **Goal**                                                     | **Questions to Ask**                                                                                     |
+|-------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1     | To gauge if the visualizations provided insight into the story being told | What story do you think the data is telling?                                                            |
+| 2     | Understand if the story unfolds in a way that’s easy to follow and understand | Is the structure and flow of the story easy to follow and understand?                                   |
+| 3     | Evaluate the effectiveness of different design choices made for the graphs | What are your thoughts on the visualizations? What worked well, and what could be improved? (e.g., titles, white space, color choices, etc.) |
+| 4     | Check if there are any missing story elements or areas to elaborate on | Are there any story elements you feel are missing or that could help tell a more compelling story? (e.g., additional graphs, geographic context, etc.) |
+| 5     | Check if the story is compelling, appropriate, and persuasive for the target audience | Who do you think the target audience is for this story?                                                 |
+| 6     | Understand if the main takeaways and recommendations are clear | Is the call to action clear and persuasive?                                                             |
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
 
 
 Text here!
