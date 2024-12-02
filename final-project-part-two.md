@@ -23,16 +23,17 @@
 | 5     | Explore the emotional and intellectual response to the story                  | How did the story make you feel, and did it persuade you to think differently about the topic?           |
 | 6     | Determine the clarity and persuasiveness of the intended actions or outcomes  | Were the main takeaways and recommendations clear, and did they motivate you to act or learn more?       |
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+## Interview Findings
 
-Text here!
+| **Questions**                                                | **Interview 1 (Healthcare Operations Analyst)**                              | **Interview 2** | **Interview 3** |
+|--------------------------------------------------------------|----------------------------------------------------------------------------|-----------------|-----------------|
+| What story do you think the data is telling?                | There’s an underfunding of Latino artists across major U.S. cities.         |                 |                 |
+| Did the story capture your attention, and was it easy to follow? | Yes, clear structure using Los Angeles as a benchmark for comparison.       |                 |                 |
+| How effective were the visualizations in supporting the story? | Worked: Transitions between light and dark themes. Didn’t work: Missing data comparing overall arts funding to Latino art funding. |                 |                 |
+| Were there any parts of the story or visuals that felt incomplete or could be improved? | Suggests adding data showing disparities between total arts funding and Latino art funding. |                 |                 |
+| Who do you think the target audience is for this story?      | Public funding officials and private arts funders.                          |                 |                 |
+| Were the main takeaways and recommendations clear?          | Yes, clear call to action: Increase funding for Latino art in other cities to match Los Angeles. |                 |                 |
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
 
 
 # Identified changes for Part III
