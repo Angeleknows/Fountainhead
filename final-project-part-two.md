@@ -23,9 +23,8 @@
 | 5     | Explore the emotional and intellectual response to the story                  | How did the story make you feel, and did it persuade you to think differently about the topic?           |
 | 6     | Determine the clarity and persuasiveness of the intended actions or outcomes  | Were the main takeaways and recommendations clear, and did they motivate you to act or learn more?       |
 
-## Interview Findings
-
-## Interview Findings
+## Interview Findings: 
+>The interviews showed that the story communicates the underfunding of Latino artists clearly and effectively, using comparisons like Los Angeles to ?>engage the audience. Visualizations were strong, with transitions and color choices standing out, but there’s room to add more data and annotations to >better highlight disparities. Feedback pointed to the need for more context, including structural reasons behind inequities and personal stories to >make the narrative more impactful. The target audience was identified as policymakers, funders, and community leaders, with a clear call to action to ?>increase equitable funding. Overall, the story resonates but could be even stronger with added depth and nuance.
 
 | **Questions**                                                | **Interview 1 (Healthcare Operations Analyst)**                              | **Interview 2 (CMU Graduate Student, Mechanical Engineer)**           | **Interview 3 (Google Employee and Dancer)**                     |
 |--------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
