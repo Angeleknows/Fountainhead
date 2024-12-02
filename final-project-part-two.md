@@ -6,12 +6,12 @@
 
 # User research 
 
-## Target audience
+## Target Audience
 > My primary target audience includes cultural arts trusts that manage and distribute government and private funds, as well as representatives from local arts organizations and key benefactors who influence funding decisions for public art initiatives. These individuals have the authority to champion equitable investments in Latino art, ensuring it has a meaningful presence in public spaces and cultural institutions.
 > At the same time, a broader audience, including community members and arts enthusiasts, plays an important role in building momentum and supporting these changes. Engaging this wider group can amplify calls for equity in the arts and create pressure for actionable change. I designed my Shorthand story to resonate with both audiences, providing clear evidence and a narrative that inspires action while remaining approachable and visually compelling.
 > To inform my approach, I dug into funding reports from the National Endowment for the Arts (NEA), city governments, the National Association of Latino Arts and Cultures (NALAC), and press releases from donors like the Mellon Foundation. This research helped me pinpoint who holds the decision-making power and how their priorities shape opportunities for Latino artists. My goal is to move these stakeholders to act while also fostering broader support for representation in the arts.
 
-## Interview script
+## Interview Script
 
 | **#** | **Goal**                                                       | **Questions to Ask**                                                                                     |
 |-------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -37,7 +37,7 @@
 # Identified Changes for Part III
 > I plan to refine my story by incorporating additional data points, specifically by playing around with different graphs in Python/MATLAB, providing more context on systemic barriers to equitable funding, and strengthening the call to action with specific, actionable steps for stakeholders. I will also enhance my visualizations with annotations to better highlight disparities and consider adding personal stories of Latino artists to create a more compelling narrative.
 
-| **Research synthesis**                  | **Anticipated Changes for Part III**                                            |
+| **Research Synthesis**                  | **Anticipated Changes for Part III**                                            |
 |-----------------------------------------|---------------------------------------------------------------------------------|
 | The story clearly communicates underfunding of Latino artists but could use more supporting data. | Add data comparing total arts funding to the proportion allocated to Latino art in various cities. |
 | Visualizations were engaging but lacked key annotations and some clarity in explaining disparities. | Include annotations in graphs to highlight funding gaps more explicitly, and simplify graphs with too much text. |
