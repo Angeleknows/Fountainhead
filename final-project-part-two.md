@@ -37,7 +37,7 @@
 # Identified Changes for Part III
 > I plan to refine my story by incorporating additional data points, specifically by playing around with different graphs in Python/MATLAB, providing more context on systemic barriers to equitable funding, and strengthening the call to action with specific, actionable steps for stakeholders. I will also enhance my visualizations with annotations to better highlight disparities and consider adding personal stories of Latino artists to create a more compelling narrative.
 
-| **Research synthesis**                  | **Anticipated changes for Part III**                                            |
+| **Research synthesis**                  | **Anticipated Changes for Part III**                                            |
 |-----------------------------------------|---------------------------------------------------------------------------------|
 | The story clearly communicates underfunding of Latino artists but could use more supporting data. | Add data comparing total arts funding to the proportion allocated to Latino art in various cities. |
 | Visualizations were engaging but lacked key annotations and some clarity in explaining disparities. | Include annotations in graphs to highlight funding gaps more explicitly, and simplify graphs with too much text. |
