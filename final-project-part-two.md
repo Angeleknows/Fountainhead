@@ -1,7 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Shorthand Story
- [Latino Art, Unseen Funding Gaps in Major US Cities](https://carnegiemellon.shorthandstories.com/latino-art-un-seen-funding-gaps-in-major-us-cities/index.html)
+ [Latino Art, Unseen Funding Gaps in Major US Cities](https://preview.shorthand.com/wgYqYv4o6uS280Ao)
+
 
 
 # User research 
