@@ -8,8 +8,7 @@
 
 ## Target audience
 > My target audience includes cultural arts trusts that serve as arbiters and disbursers of government and private funds. This Shorthand story is designed to appeal to a wide range of arts benefactors, including representatives from trusts and local arts organizations involved in funding decisions for public art initiatives. These stakeholders have the power to prioritize equitable investments in Latino art, ensuring greater representation in public spaces and cultural institutions. To identify these individuals, I reviewed funding reports from the National Endowment for the Arts (NEA), city governments, the National Association of Latino Arts and Cultures (NALAC), and press releases from donors like the Mellon Foundation.
->
-> officials and arts advocates in cities with significant Latino populations, such as Los Angeles, Miami, and San Antonio, and reaching out to local cultural organizations for insights.
+
 
 
 
