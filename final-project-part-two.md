@@ -13,21 +13,15 @@
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-# Interview Script
 
-| **#** | **Goal**                                                     | **Questions to Ask**                                                                                     |
-|-------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| 1     | To gauge if the visualizations provided insight into the story being told | What story do you think the data is telling?                                                            |
-| 2     | Understand if the story unfolds in a way that’s easy to follow and understand | Is the structure and flow of the story easy to follow and understand?                                   |
-| 3     | Evaluate the effectiveness of different design choices made for the graphs | What are your thoughts on the visualizations? What worked well, and what could be improved? (e.g., titles, white space, color choices, etc.) |
-| 4     | Check if there are any missing story elements or areas to elaborate on | Are there any story elements you feel are missing or that could help tell a more compelling story? (e.g., additional graphs, geographic context, etc.) |
-| 5     | Check if the story is compelling, appropriate, and persuasive for the target audience | Who do you think the target audience is for this story?                                                 |
-| 6     | Understand if the main takeaways and recommendations are clear | Is the call to action clear and persuasive?                                                             |
-
-
-
-Text here!
+| **#** | **Goal**                                                       | **Questions to Ask**                                                                                     |
+|-------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1     | Understand whether the data-driven story effectively communicates its main idea | What message or story do you think the data is trying to convey?                                        |
+| 2     | Assess how engaging and accessible the story is for different audiences       | Did the story capture your attention, and was it easy to follow?                                        |
+| 3     | Evaluate the design elements of the visualizations for clarity and impact     | How effective were the visualizations in supporting the story? Which aspects stood out positively or negatively? |
+| 4     | Identify areas where the narrative or data presentation could be improved     | Were there any parts of the story or visuals that felt confusing or incomplete? What additional details would you like to see? |
+| 5     | Explore the emotional and intellectual response to the story                  | How did the story make you feel, and did it persuade you to think differently about the topic?           |
+| 6     | Determine the clarity and persuasiveness of the intended actions or outcomes  | Were the main takeaways and recommendations clear, and did they motivate you to act or learn more?       |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
