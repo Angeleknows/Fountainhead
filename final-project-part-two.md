@@ -34,7 +34,7 @@
 | Who do you think the target audience is for this story?      | Public funding officials and private arts funders.                          | Policymakers and advocates in arts funding, especially those in the U.S. | Arts organizations and community leaders passionate about equity. |
 | Were the main takeaways and recommendations clear?          | Yes, clear call to action: Increase funding for Latino art in other cities to match Los Angeles. | Somewhat clear but could benefit from specifying actionable steps for funders. | Very clear and persuasive, especially for those already engaged in the arts. |
 
-# Identified changes for Part III
+# Identified Changes for Part III
 > I plan to refine my story by incorporating additional data points, specifically by playing around with different graphs in Python/Matlab, providing more context on systemic barriers to equitable funding, and strengthening the call to action with specific, actionable steps for stakeholders. I will also enhance my visualizations with annotations to better highlight disparities and consider adding personal stories of Latino artists to create a more compelling narrative.
 
 | **Research synthesis**                  | **Anticipated changes for Part III**                                            |
