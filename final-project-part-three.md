@@ -1,9 +1,24 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latino Art, [UN]SEEN</title>
+</head>
+<body>
+    <h1>Latino Art, [UN]SEEN: Funding Gaps in Major US Cities</h1>
+    <p>Explore the full story below:</p>
+    <iframe 
+        src="https://carnegiemellon.shorthandstories.com/latino-art-un-seen-funding-gaps-in-major-us-cities/index.html" 
+        style="width:100%; height:90vh; border:none;">
+    </iframe>
+</body>
+</html>
+
 
 # Changes made since Part II
 
