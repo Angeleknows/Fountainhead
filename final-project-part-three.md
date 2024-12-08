@@ -31,28 +31,39 @@ This project pushed me to think critically about presenting a data-driven story 
 
 ## References
 
+Americans for the Arts. (2018). Arts facts: National Endowment for the Arts 2018. Retrieved from https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/arts-facts-national-endowment-for-the-arts-2017
+
+Americans for the Arts. (2023). The state of the arts in America: Annual report. Retrieved from https://www.americansforthearts.org
+
 Latino Community Foundation. (2023). Funding trends report. Retrieved from https://latinocf.org
 
-Mellon Foundation. (2023). Advancing Latinx art in museums initiative. Retrieved from https://www.mellon.org/news/new-5m-initiative-designed-advance-latinx-art-museums/
+Mellon Foundation. (2023a). Advancing Latinx art in museums initiative. Retrieved from https://www.mellon.org/news/new-5m-initiative-designed-advance-latinx-art-museums/
 
-Mellon Foundation. (2023). Art museum staff demographic survey report. Retrieved from https://mellon.org/publications
+Mellon Foundation. (2023b). Art museum staff demographic survey report. Retrieved from https://mellon.org/publications
+
+Miami Foundation. (n.d.). Art and culture in Miami: Funding challenges and opportunities. Retrieved from https://miamifoundation.org
+
+Miami Museum of Contemporary Art of the Americas. (2023). Official website. Retrieved from https://miamimocaa.org
 
 Museo de Arte Contemporáneo de Puerto Rico. (2023). Official website. Retrieved from https://www.mac-pr.org
 
 Museum of Contemporary Art San Diego. (2023). Official website. Retrieved from https://mcasd.org
 
-Nielsen. (2023). The Latinx influence on the US economy. Retrieved from https://www.nielsen.com
+NALAC (National Association of Latino Arts and Cultures). (2023). Impact report. Retrieved from https://www.nalac.org
 
-National Association of Latino Arts and Cultures. (2023). Impact report. Retrieved from https://www.nalac.org
+National Endowment for the Arts. (2019). The NEA’s role in underserved communities. Retrieved from https://www.arts.gov
 
 National Gallery of Art. (2023). Official website. Retrieved from https://www.nga.gov
 
-Newark Museum of Art. (2023). Official website. Retrieved from https://newarkmuseumart.org
+Nielsen. (2023). The Latinx influence on the US economy. Retrieved from https://www.nielsen.com
 
-Miami Museum of Contemporary Art of the Americas. (2023). Official website. Retrieved from https://miamimocaa.org
+Ramos, E. C. (2023). Our America: The Latino presence in American art. Smithsonian American Art Museum. Retrieved from https://americanart.si.edu/books/our-america
+
+San Antonio Report. (2022). Latino art in San Antonio: A funding analysis. Retrieved from https://sanantonioreport.org
+
+U.S. Census Bureau. (2023). Miami demographic profile: 2023 update. Retrieved from https://www.census.gov
 
 Vincent Price Art Museum. (2023). Official website. Retrieved from https://vincentpriceartmuseum.org
-
 
 # Final Thoughts
 This project has been a deeply rewarding experience. I loved exploring the intersection of data, design, and advocacy, pushing myself to tell a story that is not only visually compelling but also meaningful. If I had more time, I’d refine the interactivity further, experimenting with scrollmation or embedded video elements to make the experience even more dynamic. I’d also dig deeper into mapping data to highlight regional funding disparities with greater precision. The most frustrating part though for me was having a vision in mind of the story that I wnated to tell, but not finding enough data in the arts to coorroborate my argument. I found reports and even polished graphs representing changes in funding, but I did not use them as my own in my version III. I wish that some of the sources I relied on heavily, like, NALAC, gave access to raw data like the CSVs of the dashboard they created - without this, it was challenging to work on a niche topic that is facing serious underfunding, and ironically, the lack of data on this topic only further highlights why this topic is an issue in regards to cultural policy and the public arts. Despite these roadblocks, I’m most proud of is how this project is a call for change to the biggest philanthorpic organizations that have the meands to drive change, and I hope this narrative inspires my audience to make a real impact and support artists from my cultural background because our voices help add more color to the fabric of America. 
