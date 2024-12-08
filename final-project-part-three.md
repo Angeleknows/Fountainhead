@@ -7,27 +7,28 @@ Text here!
 
 # Changes made since Part II
 
-Since Part II, I’ve focused on making the narrative more cohesive by adding relative data to my audience to accentuate the need for more financial support in the arts for Latino artists. Based on feedback, I made a chart in DataWrarpper that reflects the quanity of funding that large philanthorpic groups like the Ford Foundation invest on Latino arts. I think that this graph ties the story together while keeping the tone focused on my target audience: large philantropist and cultural trust who are able to drive change in equitable representation in the arts, 
+Since Part II, I’ve focused on making the narrative more cohesive by incorporating data that resonates with my audience, emphasizing the critical need for increased financial support in the arts for Latino artists. One key addition was a DataWrapper chart that highlights the quantity of funding major philanthropic organizations, such as the Ford Foundation, allocate to Latino arts. This visualization ties the story together and keeps the tone aligned with my target audience: large philanthropists and cultural trusts with the ability to drive equitable representation in the arts.
 
-One major design change was refining my visualizations but they still fell light in part due to th challenge of finding data for arts funding in the cities I wanted to compare.
+I also refined my visualizations, but they still felt somewhat limited due to the challenge of finding detailed arts funding data for the specific cities I wanted to compare. Despite this, the updates improved the narrative's clarity and focus.
 
-The call to action also got a major upgrade. Initially, it felt broad and abstract, but now it’s more actionable and tailored for philanthropic organizations. I included specific steps, like increasing funding for underrepresented institutions and partnering with cultural hubs like the Miami Museum of Contemporary Art of the Americas.
+The call to action underwent a significant transformation. Initially broad and abstract, it is now sharply focused and tailored for philanthropic organizations. I included actionable steps such as increasing funding for underrepresented institutions and fostering partnerships with cultural hubs like the Miami Museum of Contemporary Art of the Americas.
+
+
 
 ## The audience
 
-My primary audience is philanthropic organizations like The Mellon Foundation, Ford Foundation, and Getty Foundation. These are the key players with the resources to address systemic funding disparities in Latino arts. To connect with them, I relied heavily on data-driven arguments and success stories that align with their goals of equity and cultural impact.
+My primary audience is philanthropic organizations, including The Mellon Foundation, Ford Foundation, and Getty Foundation. These institutions are key players with the resources to address systemic funding inequities in Latino arts. To engage them effectively, I relied heavily on data-driven arguments and success stories that align with their overarching goals of equity and cultural impact.
 
-Personas and user feedback helped me refine my approach. I envisioned a foundation leader scrolling through the story and tailored the tone to resonate with someone who values actionable insights and measurable outcomes.
+Personas and user feedback played a crucial role in shaping my approach. I imagined a foundation leader scrolling through the story, looking for clear, actionable insights and measurable outcomes. This exercise helped me tailor the tone and content to meet their expectations.
 
-I also considered a secondary audience of cultural advocates and leaders who can amplify the message at a grassroots level. For them, I kept the language approachable and included broader takeaways that emphasize the importance of collective action.
+Additionally, I considered a secondary audience of cultural advocates and leaders who can amplify this message at a grassroots level. For this group, I focused on maintaining an approachable tone and providing broader takeaways that emphasize collective action.
+
 
 ## Final design decisions
 
-This project has been a challenging but incredibly rewarding experience. It pushed me to think critically about how to tell a data-driven story in a way that feels human and impactful.
+This project pushed me to think critically about presenting a data-driven story in a way that feels both human and impactful.
 
-If I could revisit anything, I’d spend more time experimenting with additional visuals or interactive elements. But overall, I’m proud of how everything came together. The story feels polished, purposeful, and ready to inspire action.
-
-I’m especially excited to include this project in my portfolio. It’s not just an assignment—it’s a meaningful piece of work that highlights an issue I care deeply about and has the potential to spark real change.
+ The DataWrapper chart became a pivotal element, helping connect the dots for my audience. However, challenges with finding city-specific funding data limited the depth of some visualizations. I made deliberate choices to streamline the story, ensuring each section builds logically on the last. The result is a narrative that’s cohesive, engaging, and purpose-driven. If I could revisit anything, I’d experiment further with additional visuals or interactive elements to add dynamism to the story. Despite this, I’m proud of how everything came together and I think that it feels polished, purposeful, and ready to inspire action.
 
 ## References
 
@@ -54,7 +55,6 @@ Miami Museum of Contemporary Art of the Americas. (2023). Official website. Retr
 Vincent Price Art Museum. (2023). Official website. Retrieved from https://vincentpriceartmuseum.org
 
 
-
 # Final thoughts
-This project has been a deeply rewarding experience. I loved exploring the intersection of data, design, and advocacy, pushing myself to tell a story that is not only visually compelling but also meaningful. If I had more time, I’d refine the interactivity further, experimenting with scrollmation or embedded video elements to make the experience even more dynamic. I’d also dig deeper into mapping data to highlight regional funding disparities with greater precision. What I’m most proud of is how this project is a call for change that I hope inspires my audience to make a real impact.
+This project has been a deeply rewarding experience. I loved exploring the intersection of data, design, and advocacy, pushing myself to tell a story that is not only visually compelling but also meaningful. If I had more time, I’d refine the interactivity further, experimenting with scrollmation or embedded video elements to make the experience even more dynamic. I’d also dig deeper into mapping data to highlight regional funding disparities with greater precision. What I’m most proud of is how this project is a call for change that I hope inspires my audience to make a real impact and support artists from my cultural background.
 
