@@ -7,7 +7,7 @@ Text here!
 
 # Changes made since Part II
 
-TSince Part II, I’ve focused on making the narrative more cohesive by adding relative data to my audience to accentuate the need for more financial support in the arts for Latino artists. Based on feedback, I made a chart in DataWrarpper that reflects the quanity of funding that large philanthorpic groups like the Ford Foundation invest on Latino arts. I think that this graph ties the story together while keeping the tone focused on my target audience: large philantropist and cultural trust who are able to drive change in equitable representation in the arts, 
+Since Part II, I’ve focused on making the narrative more cohesive by adding relative data to my audience to accentuate the need for more financial support in the arts for Latino artists. Based on feedback, I made a chart in DataWrarpper that reflects the quanity of funding that large philanthorpic groups like the Ford Foundation invest on Latino arts. I think that this graph ties the story together while keeping the tone focused on my target audience: large philantropist and cultural trust who are able to drive change in equitable representation in the arts, 
 
 One major design change was refining my visualizations but they still fell light in part due to th challenge of finding data for arts funding in the cities I wanted to compare.
 
