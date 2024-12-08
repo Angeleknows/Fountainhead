@@ -4,7 +4,7 @@
 [Latino Art, [UN]SEEN: Funding Gaps in Major US Cities](https://carnegiemellon.shorthandstories.com/latino-art-un-seen-funding-gaps-in-major-us-cities/index.html)
 
 
-# Changes made since Part II
+# Changes Made Since Part II
 
 Since Part II, I’ve focused on making the narrative more cohesive by incorporating data that resonates with my audience, emphasizing the critical need for increased financial support in the arts for Latino artists. One key addition was a DataWrapper chart that highlights the quantity of funding major philanthropic organizations, such as the Ford Foundation, allocate to Latino arts. This visualization ties the story together and keeps the tone aligned with my target audience: large philanthropists and cultural trusts with the ability to drive equitable representation in the arts.
 
@@ -14,7 +14,7 @@ The call to action underwent a significant transformation. Initially broad and a
 
 
 
-## The audience
+## The Audience
 
 My primary audience is philanthropic organizations, including The Mellon Foundation, Ford Foundation, and Getty Foundation. These institutions are key players with the resources to address systemic funding inequities in Latino arts. To engage them effectively, I relied heavily on data-driven arguments and success stories that align with their overarching goals of equity and cultural impact.
 
@@ -23,7 +23,7 @@ Personas and user feedback played a crucial role in shaping my approach. I imagi
 Additionally, I considered a secondary audience of cultural advocates and leaders who can amplify this message at a grassroots level. For this group, I focused on maintaining an approachable tone and providing broader takeaways that emphasize collective action.
 
 
-## Final design decisions
+## Final Design Decisions
 
 This project pushed me to think critically about presenting a data-driven story in a way that feels both human and impactful.
 
@@ -54,6 +54,6 @@ Miami Museum of Contemporary Art of the Americas. (2023). Official website. Retr
 Vincent Price Art Museum. (2023). Official website. Retrieved from https://vincentpriceartmuseum.org
 
 
-# Final thoughts
+# Final Thoughts
 This project has been a deeply rewarding experience. I loved exploring the intersection of data, design, and advocacy, pushing myself to tell a story that is not only visually compelling but also meaningful. If I had more time, I’d refine the interactivity further, experimenting with scrollmation or embedded video elements to make the experience even more dynamic. I’d also dig deeper into mapping data to highlight regional funding disparities with greater precision. What I’m most proud of is how this project is a call for change that I hope inspires my audience to make a real impact and support artists from my cultural background.
 
